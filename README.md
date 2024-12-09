@@ -1,5 +1,5 @@
 🎵 Spotify Clone 與即時聊天功能
-[🚀 線上版本](https://spotify-clone-yicy.onrender.com) 
+[🚀 線上版本](https://spotify-but-better.up.railway.app/)
 
 這是一個全端的 Spotify 克隆項目，包含精美的用戶界面以及基於 Socket.IO 的即時聊天功能。專案整合了 Socket.IO 用於即時聊天，使用 ShadCN 提供現代化的 UI 元件庫，結合 Clerk 進行使用者認證，並採用 MongoDB 作為資料庫。本專案旨在模擬 Spotify 的核心功能，例如音樂瀏覽、播放列表，以及與其他用戶的即時聊天。
 
